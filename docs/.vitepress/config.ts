@@ -16,7 +16,7 @@ export default {
         ['link', { rel: "stylesheet", href: "./theme/fonts/Questrial-Regular.ttf"}]
       ],
     themeConfig: {
-        logo: { dark: "../img/boidverse_dark.png", light: "../img/boidverse_light.png" },
+        logo: { dark: "./public/img/boidverse_dark.png", light: "./public/img/boidverse_light.png" },
         siteTitle: false,
         nav: [
             { text: 'Home', link: '/' },
