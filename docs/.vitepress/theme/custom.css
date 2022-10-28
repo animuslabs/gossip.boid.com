@@ -89,22 +89,9 @@
 
 @media (min-width: 960px) {
     .dark .VPNavBar {
-        background: #223055; /* top at nav bar at dark mode */
+        background: #223055 !important; /* top at nav bar at dark mode */
     }
     .VPNavBar {
-        background-color:  #FFFAE6; /* top at nav bar at light mode */
-    }
-    .dark .VPNavBar.has-sidebar .content[data-v-cf6e7c5e] {
-        background: #223055; /* top at nav bar at dark mode - temp hack used for local dev*/
-    }
-    .VPNavBar.has-sidebar .content[data-v-cf6e7c5e] {
-        background-color:  #FFFAE6; /* top at nav bar at light mode - temp hack used for local dev */
-    }
-
-    .dark .VPNavBar.has-sidebar .content[data-v-6f1d18b5] {
-        background: #223055; /* top at nav bar at dark mode - temp hack used for netlify dev */
-    }
-    .VPNavBar.has-sidebar .content[data-v-6f1d18b5] {
-        background-color:  #FFFAE6; /* top at nav bar at light mode - temp hack used for netlify dev */
+        background-color:  #FFFAE6 !important; /* top at nav bar at light mode */
     }
 }
