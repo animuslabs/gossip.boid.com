@@ -94,4 +94,10 @@
     .VPNavBar {
         background-color:  #FFFAE6 !important; /* top at nav bar at light mode */
     }
+    .dark .VPNavBar.has-sidebar .content{
+        background: #223055 !important;
+    }
+    .VPNavBar.has-sidebar .content{
+        background: #FFFAE6 !important;
+    }
 }
