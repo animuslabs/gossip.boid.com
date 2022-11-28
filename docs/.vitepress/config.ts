@@ -20,7 +20,7 @@ export default {
         siteTitle: false,
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'News', link: 'https://community.boid.com/news' },
+            { text: 'News', link: 'https://community.boid.com/c/boid-info/crypto-news/49' },
             {
               text: 'Boid Links',
               items: [
