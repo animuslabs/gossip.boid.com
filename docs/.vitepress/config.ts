@@ -57,8 +57,9 @@ export default {
                   text: 'Timeline',
                   collapsible: true,
                   items: [
-                    { text: 'How it all started', link: '/timeline/' },
-                    { text: 'Early period', link: '/timeline/' }
+                    { text: 'General timeline', link: '/timeline/' },
+                    // { text: 'Early period', link: '/timeline/' },
+                    { text: 'The First Boidic War', link: '/timeline/first-boidic-war' }
                     
                   ]
                 },
@@ -75,8 +76,10 @@ export default {
                   text: 'Elements',
                   collapsible: true,
                   items: [
-                    { text: 'Forest', link: '/elements/forest' }
-                    // { text: 'Cador', link: '/characters/Cador' }
+                    { text: 'Forest', link: '/elements/forest' },
+                    { text: 'Crystal', link: '/elements/crystal' },
+                    { text: 'Bonded', link: '/elements/bonded' },
+                    { text: 'The Center', link: '/elements/center' }
                     
                   ]
                 },
