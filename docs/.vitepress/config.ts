@@ -67,6 +67,7 @@ export default {
                   text: 'Characters',
                   collapsible: true,
                   items: [
+                    { text: 'Avisriel', link: '/characters/Avisriel' },
                     { text: 'Hybra', link: '/characters/Hybra' },
                     { text: 'Cador', link: '/characters/Cador' }
                     
