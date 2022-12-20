@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.ba1104b6.js";const u=JSON.parse('{"title":"Boid Crystal","description":"","frontmatter":{},"headers":[],"relativePath":"elements/crystal.md"}'),i={name:"elements/crystal.md"},s=r("",4),o=[s];function n(l,d,h,c,p,m){return t(),a("div",null,o)}const g=e(i,[["render",n]]);export{u as __pageData,g as default};
