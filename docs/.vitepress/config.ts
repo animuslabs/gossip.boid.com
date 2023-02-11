@@ -88,7 +88,9 @@ export default {
                   text: 'Stories',
                   collapsible: true,
                   items: [
-                    { text: 'The Bold Discovery', link: '/stories/the-bold-discovery' }
+                    { text: 'The Bold Discovery', link: '/stories/the-bold-discovery' },
+                    { text: 'The First Bonding', link: '/stories/the-first-bonding' },
+                    { text: 'The Void', link: '/stories/the-void' }
                     // { text: 'Story2', link: '/stories/' }
                     
                   ]
@@ -96,7 +98,7 @@ export default {
               ],
           footer: {
             message: 'Boid.com',
-            copyright: 'Copyright © 2022'
+            copyright: 'Copyright © 2023'
           }
       }    
   }

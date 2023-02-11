@@ -17,3 +17,6 @@ Hybra is the current leader of the Nolic council. Hybra in many respects is the 
 
 
 "Intelligence is power and knowledge is absolute. and absolution is key to everything."
+
+___
+**by "Konner"**

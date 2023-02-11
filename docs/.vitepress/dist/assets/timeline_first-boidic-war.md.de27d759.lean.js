@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as i}from"./app.ba1104b6.js";const m=JSON.parse('{"title":"The First Boidic War","description":"","frontmatter":{},"headers":[],"relativePath":"timeline/first-boidic-war.md"}'),o={name:"timeline/first-boidic-war.md"},r=i("",5),n=[r];function d(s,c,l,h,p,f){return a(),t("div",null,n)}const _=e(o,[["render",d]]);export{m as __pageData,_ as default};

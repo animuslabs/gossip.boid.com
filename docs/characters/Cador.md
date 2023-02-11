@@ -15,3 +15,6 @@ Cador Searched and searched for the answer. "Where is it?" Netelen wasn't the fi
 
 
  "The way of the True Seekers is to grasp out of the dark knowing that with each grasp of light they are illuminating the path for those that come after."
+
+ ___
+**by "Konner"**

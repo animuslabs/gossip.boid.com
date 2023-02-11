@@ -28,3 +28,5 @@ Despite their many achievements, the Nol as a whole could not escape their own h
 But Avisriel had not forgotten his purpose, and he watched over the Nol with a heavy heart. He knew that their arrogance would be their downfall, and he prayed to Greater Pantheon to concede an intervention or they would one day come to see the error of their ways.
 
 And so Avisriel continued to fly across the vast expanse of the universe, bringing light and life wherever he went. He was a shining beacon of hope and goodness, and he knew that as long as he was there, there was always a chance for redemption.
+___
+**by "Konner"**
