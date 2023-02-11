@@ -46,11 +46,19 @@ export default {
             ],
             sidebar: [
                 {
-                  text: 'Universe so far...',
+                  text: 'Introduction',
                   items: [
-                    { text: 'Introduction', link: '/introduction/' }
-                    // { text: 'Item B', link: '/introduction/one' }
-                    
+                    { text: 'Universe', link: '/introduction/' },
+                    { text: 'Life Cycle', link: '/introduction/life-cycle' },
+                    { text: 'Hyphid Colony Stages', link: '/introduction/hyphid-colony-stages' },
+                    { text: 'Modern Origins', link: '/introduction/modern-origins' },
+                    { text: 'The Trovi', link: '/introduction/the-trovi' },
+                    { text: 'Boid Shells', link: '/introduction/boid-shells' },
+                    { text: 'Boids in Nol society', link: '/introduction/boids-in-nol-society' },
+                    { text: 'Autonomous Boid Colonies', link: '/introduction/autonomous-boid-colonies' },
+                    { text: 'The Boid Wars', link: '/introduction/the-boid-wars' },
+                    { text: 'The Exodus', link: '/introduction/the-exodus' }
+                    // { text: '', link: '//' }
                   ]
                 },
                 {
