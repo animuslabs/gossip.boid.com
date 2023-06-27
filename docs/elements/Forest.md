@@ -5,6 +5,8 @@ lastUpdated: false
 layout: doc
 ---
 # The Boid Forest
+![Forest](../public/forest.jpg)
+[Mint your own NFTs!](https://nft.boid.com)  |  [Look at the template!](https://telos.neftyblocks.com/templates/nft.boid/243) 
 
 The, forest, the Boid, to some they are completely different but to the keen eye they are one and the same.
 hero
