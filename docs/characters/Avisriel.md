@@ -5,6 +5,9 @@ lastUpdated: false
 layout: doc
 ---
 # A pure light being
+![Avisriel](../public/avisriel.jpg)
+[Mint your own NFTs!](https://nft.boid.com)  |  [Look at the template!](https://telos.neftyblocks.com/templates/nft.boid/237)  
+
 Avisriel was a God like no other. He was a being of pure light and energy, with wings of shimmering gold that seemed to stretch on for eternity. He was a God of healing, and wherever he went, he left behind a trail of light and life.
 
 It was said that Avisriel had the power to eradicate disease with a single touch. He would fly to the sick and the dying, and his wings would beat with a radiance that could be seen from miles away. As he approached, the people would open their eyes and see a bright light shining down on them, and they would feel a warmth spreading through their bodies.

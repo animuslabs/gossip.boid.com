@@ -12,5 +12,5 @@ hero:
       link: /introduction/
     - theme: alt
       text: BoidApp
-      link: https://app.boid.com
+      link: https://frontier.boid.com
 ---

@@ -25,7 +25,7 @@ export default {
               text: 'Boid Links',
               items: [
                 { text: 'boid.com', link: 'https://boid.com' },
-                { text: 'Boid App', link: 'https://app.boid.com' },
+                { text: 'Boid App', link: 'https://frontier.boid.com' },
                 { text: 'PowerPools', link: 'https://powerpools.io' },
                 { text: 'Boid Avatars', link: 'https://avatar.boid.com' }      
             ]},

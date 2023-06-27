@@ -1,13 +1,13 @@
 {
-  "name": "gossip.boid.com",
+  "name": "lore.boid.com",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/animuslabs/gossip.boid.com.git",
   "author": "Seth@Boid.com <mchosc@animusystems.com>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.29",
-    "vue": "^3.2.41"
+    "vitepress": "^1.0.0-beta.3",
+    "vue": "^3.3.4"
   },
   "pnpm": {
     "peerDependencyRules": {
