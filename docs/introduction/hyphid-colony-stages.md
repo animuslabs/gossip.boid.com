@@ -18,10 +18,11 @@ The ultimate goal of any Hyphid colony is to learn and grow by accumulating expe
 [Mint your own NFTs!](https://nft.boid.com)  |  [Look at the template!](https://telos.neftyblocks.com/templates/nft.boid/240) 
 
 3) The colony continues to grow and has established successful child colonies on the same planet that are thriving. A high variety of Boid organisms gives the colony good resilience and the Boids have developed advanced tools and technology based on the collective experiences of previous generations. The colony communicates using electrochemical signals and combined with Boid technology, has “eyes, ears, mouth” that enables it to directly manage the society.
-
-4) Called the Gaia Boid stage, the colony has spread to cover the majority of the planet and has hosts for thousands of generations in nearly every form of life on the planet. The collective consciousness of the colony far exceeds the intelligence level of any other living organism. The colony can communicate telepathically, including with other Gaia Boid planets. Little is known about Gaia Boids but rumors have claimed they are able to manipulate space and time and coordinate with other Gaia planets on the other side of the universe.
-
+  
 ![Hyphid Colony Stage 3](../public/hyphid-stage3.jpg)
 [Mint your own NFTs!](https://nft.boid.com)  |  [Look at the template!](https://telos.neftyblocks.com/templates/nft.boid/241) 
+  
+4) Called the Gaia Boid stage, the colony has spread to cover the majority of the planet and has hosts for thousands of generations in nearly every form of life on the planet. The collective consciousness of the colony far exceeds the intelligence level of any other living organism. The colony can communicate telepathically, including with other Gaia Boid planets. Little is known about Gaia Boids but rumors have claimed they are able to manipulate space and time and coordinate with other Gaia planets on the other side of the universe.
+
 ___
 **by "John H."**
